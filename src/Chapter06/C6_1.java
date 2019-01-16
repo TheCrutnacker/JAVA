@@ -7,14 +7,13 @@ import java.util.Scanner;
  *
  * @author Chase Holland
  */
-
 public class C6_1 {
 
     /**
+     * Main Method
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your password: ");
